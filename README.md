@@ -2,6 +2,12 @@
 
 Basic python script to scan a betfair history stream bz2 file and extract the price at a particular time before scheduled start
 
+## Notes
+
+Tested on AU Horse Racing stream history files (also works on greyhounds with some mods)
+
+Since I was only interested in the win market i've added code to skip the place markets
+
 ## Instructions
 
 1. Download Stream File from 
