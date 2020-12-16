@@ -19,7 +19,7 @@ https://github.com/liampauling/betfair
 ## Instructions
 
 1. Download Stream File from 
-https://sites.betfair.com.au/dap/
+https://historicdata.betfair.com/
 
 2. Extract the downloaded tar file and Nav in to the folder containing folders of 'days' 1,2,3,4,5,...,29,30. Copy these days folders into ./data/YYYY/MM/ in this project directory
 
