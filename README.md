@@ -26,7 +26,7 @@ https://historicdata.betfair.com/
 3. Edit betfairhistorystreamextractor.py and update the variables:
 
 - basepath: this needs to be the path you put everything in from step 2
-- offset: this is a number, the number of seconds before the jump you want the prices from.
+- offset: the number of seconds before the jump you want the prices from.
 
 4. Make sure dependencies are installed from requirements.txt
 
