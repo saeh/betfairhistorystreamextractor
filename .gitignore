@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Data Files to ignore
+.bz2
+.csv
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
