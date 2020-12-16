@@ -8,6 +8,10 @@ Tested on AU Horse Racing stream history files (also works on greyhounds with so
 
 Since I was only interested in the win market i've added code to skip the place markets
 
+Only Extracts 1 price per selection per market. Could easily be extended to grab prices at multiple times
+
+Extracts the price ladder to depth 5. A better way would be to aggregate to price available to return $X.
+
 ## Instructions
 
 1. Download Stream File from 
