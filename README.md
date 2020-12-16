@@ -12,6 +12,10 @@ Only Extracts 1 price per selection per market. Could easily be extended to grab
 
 Extracts the price ladder to depth 5. A better way would be to aggregate to price available to return $X.
 
+Heavy lifting on the stream done by Betfairlightweight 
+
+https://github.com/liampauling/betfair
+
 ## Instructions
 
 1. Download Stream File from 
